@@ -1,5 +1,5 @@
 {
-    "name":         "libra/twitter-bootstrap",
+    "name":         "libra/twitter-bootstrap-assets",
     "type":         "library",
     "version":      "0.2.0",
     "description":  "Twitter Bootstrap assets for Libra CMS",

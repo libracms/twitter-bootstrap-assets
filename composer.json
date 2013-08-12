@@ -1,22 +1,15 @@
 {
     "name":         "libra/twitter-bootstrap-assets",
-    "type":         "library",
-    "description":  "Twitter Bootstrap assets for Libra CMS",
-    "keywords":     ["libra", "twitter-bootstrap", "assets"],
-    "homepage":     "http://www.ejoom.com/libra-cms/",
-    "license":      "BSD-3-Clause",
+    "type":         "asset-aware",
+    "description":  "Twitter Bootstrap assets for ZF2 projects",
+    "keywords":     ["twitter-bootstrap", "assets", "zf2"],
+    "homepage":     "http://getbootstrap.com/2.3.2/",
+    "license":      "Apache-2.0",
     "authors": [
         {"name": "Vitalii Nagara", "email": "duke@ejoom.com", "role": "maintainer, developer", "homepage": ""}
     ],
 
     "require": {
-    },
-
-    "require-dev": {
-        
-    },
-
-    "provide": {
-      
+        "libra/libra-assets-installer": "2.*"
     }
 }

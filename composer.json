@@ -3,7 +3,7 @@
     "type":         "asset-aware",
     "description":  "Twitter Bootstrap assets for ZF2 projects",
     "keywords":     ["twitter-bootstrap", "assets", "zf2"],
-    "homepage":     "http://getbootstrap.com/2.3.2/",
+    "homepage":     "http://getbootstrap.com",
     "license":      "Apache-2.0",
     "authors": [
         {"name": "Vitalii Nagara", "email": "duke@ejoom.com", "role": "maintainer, developer", "homepage": ""}
